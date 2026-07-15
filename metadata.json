@@ -1,0 +1,11 @@
+{
+  "name": "Secure Online Examination Platform",
+  "description": "An enterprise-grade, high-security online examination platform for NIET/JEE-style competitive exams featuring multi-step biometric authentication, live AI-based proctoring, exam center verification, and a comprehensive administration dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
